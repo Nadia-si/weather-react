@@ -68,6 +68,12 @@ export default function SearchEngine() {
         <input type="submit" value="Search" id="send" />
       </form>
       <div>{message}</div>
+      <footer>
+        ✌️ This project was coded by Nadia Simbi and it is{" "}
+        <a href="https://github.com/Nadia-si/weather-react" target="blank">
+          open sourced code
+        </a>
+      </footer>
     </div>
   );
 }
