@@ -1,0 +1,14 @@
+#input,
+#send {
+  border: 2px solid black;
+  height: 40px;
+}
+#input {
+  width: 200px;
+}
+#send {
+  width: 80px;
+}
+li {
+  margin-bottom: 8px;
+}
